@@ -1,0 +1,12 @@
+# Tugas Nomor 2
+angka = int(input("Masukkan angka: "))
+
+if angka % 2 == 0:
+    print(f"{angka} merupakan angka genap")
+else:
+    print(f"{angka} merupakan angka ganjil")
+    
+i = 1 
+while i <= angka:
+    print(i)
+    i += 1
