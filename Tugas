@@ -1,0 +1,32 @@
+# Tugas Nomor 1
+nama = "budi"
+usia = 20
+jenis_kelamin_pria = True
+alamat = None
+jumlah_motor = 0
+punya_rumah = False
+
+if nama:
+    print("ada")
+else:
+    print("tidak ada")
+if usia:
+    print("ada")
+else:
+    print("tidak ada")
+if jenis_kelamin_pria:
+    print("ada")
+else:
+    print("tidak ada")
+if alamat:
+    print("ada")
+else:
+    print("tidak ada")
+if jumlah_motor:
+    print("ada")
+else:
+    print("tidak ada")
+if punya_rumah:
+    print("ada")
+else:
+    print("tidak ada")
